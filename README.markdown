@@ -75,3 +75,4 @@ Place this in your dialplan.rb of your Adhearsion project:
 <pre>git clone git://github.com/drylikov/man_or_machine.git</pre>
 
 3. Add the example code from above to your ~adhearsion-project/dialplan.rb.
+
