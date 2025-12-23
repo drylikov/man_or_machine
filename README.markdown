@@ -8,6 +8,7 @@
 
 
 
+
 ## Description
 
 Simple component for Adhearsion to distinguish the far end of a phone as being an answering machine or a human, and to take differing actions as a result. Uses Asterisk's built-in AMD() application.
