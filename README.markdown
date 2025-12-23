@@ -27,6 +27,7 @@ Only really useful for outbound calls, obviously.
 
 
 
+
 Place this in your dialplan.rb of your Adhearsion project:
 
     outbound {
