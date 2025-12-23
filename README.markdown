@@ -67,6 +67,7 @@ Place this in your dialplan.rb of your Adhearsion project:
 
 
 
+
 1. Ensure that your asterisk installation has app_amd.so loaded as a module.
 
 2. In your components directory of your Adhearsion project:
